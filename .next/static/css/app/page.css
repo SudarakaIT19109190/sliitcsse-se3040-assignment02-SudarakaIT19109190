@@ -1,0 +1,76 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/page.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_main__akH3E {
+  width: 100%;
+  height: 100%;
+}
+.page_main__akH3E .page_body__q2a0r {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  gap: 10px;
+  padding: 50px;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/ImageCard/ImageCard.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.ImageCard_imageCard__JRetv {
+  display: flex;
+  flex-direction: column;
+  background-color: #414141;
+  border-radius: 5px;
+  position: relative;
+  color: white;
+  width: calc(50vw + 50px);
+}
+.ImageCard_imageCard__JRetv .ImageCard_imageContainer__IBoN3 {
+  width: 50vw;
+  height: 28.125vw;
+  position: relative;
+  margin: 20px 0px;
+}
+.ImageCard_imageCard__JRetv .ImageCard_imageContainer__IBoN3 img {
+  border-radius: 10px;
+}
+.ImageCard_imageCard__JRetv .ImageCard_description___dFD0 {
+  padding: 15px;
+  font-size: 14px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/NavBar/NavBar.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.NavBar_root__c7CjH {
+  background-color: #111111;
+}
+
+.NavBar_loginBtn__Jy2h8 {
+  background-color: #313da7;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/MarsRover/MarsRover.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.MarsRover_root__kwMqM {
+  display: flex;
+  flex-direction: row;
+  background-color: #414141;
+  border-radius: 5px;
+  position: relative;
+  color: white;
+  width: 100%;
+}
+.MarsRover_root__kwMqM .MarsRover_leftSection__Nvh2G {
+  flex: 1 1;
+  background-color: #2f2f2f;
+}
+.MarsRover_root__kwMqM .MarsRover_rightSection__LaG91 {
+  flex: 4 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 10px;
+}
+.MarsRover_root__kwMqM .MarsRover_rightSection__LaG91 .MarsRover_datePicker__71unR {
+  background-color: #7b7b7b;
+  border-radius: 5px;
+}
